@@ -1,7 +1,3 @@
-Here’s a polished, GitHub-ready README.md for your **real-estate-app**, consistent with the style of your other projects:
-
----
-
 # Real Estate App
 
 [![Next.js](https://img.shields.io/badge/Next.js-%3E%3D13.0-blue)]()
