@@ -2,7 +2,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-%3E%3D13.0-blue)]()
 
-A Next.js 13+ TypeScript web application for real estate listings. The project provides a framework for building a property listing platform with modern frontend features, optimized fonts, and TypeScript support. The app uses Next.js routing and server components to manage pages and content efficiently.
+A Next.js 13+ TypeScript web application for real estate listings. The project provides a framework for building a property listing platform with modern frontend features, and TypeScript support. The app uses Next.js routing and server components to manage pages and content efficiently.
 
 ---
 
