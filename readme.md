@@ -2,6 +2,11 @@
 
 A prototype real estate web app built with Next.js 13+ and TypeScript. A clean, fully responsive UI styled with Emotion, supports custom theming, and uses a modular component-based structure. In future may complete it with backend integration, CRUD operations, and additional features
 
+## Tech Stack
+Next.js 13+
+TypeScript
+Emotion
+
 ## Installation
 
 ```bash
