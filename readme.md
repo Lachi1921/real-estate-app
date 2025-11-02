@@ -11,7 +11,7 @@ Emotion
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/Lachi1921/real-estate-app
 
 # Navigate to project directory
 cd real-estate-app
