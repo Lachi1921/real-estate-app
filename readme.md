@@ -4,9 +4,10 @@ A prototype real estate web app built with Next.js 13+ and TypeScript. A clean, 
 
 ## Tech Stack
 
-Next.js 13+
-TypeScript
-Emotion
+- Next.js 13+
+- React
+- TypeScript
+- Emotion (`@emotion/react`, `@emotion/styled`) 
 
 ## Installation
 
