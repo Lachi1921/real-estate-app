@@ -26,10 +26,10 @@ npm run dev
 
 ## Future Enhancements
 
-Backend integration
-Database implementation
-User authentication
-CRUD operations for properties
-Advanced search and filtering
-Image gallery support
-Contact forms and messaging system
+- Backend integration
+- Database implementation
+- User authentication
+- CRUD operations for properties
+- Advanced search and filtering
+- Image gallery support
+- Contact forms and messaging system
